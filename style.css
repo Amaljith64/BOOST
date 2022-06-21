@@ -209,6 +209,7 @@ body{
     transform: scale(1.1);
     background-position: center;
     padding: 192px 208px;
+    background-repeat: no-repeat;
     
 }
 .container-img-content{
